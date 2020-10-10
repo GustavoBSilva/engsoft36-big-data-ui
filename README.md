@@ -1,6 +1,5 @@
-# SisBPM TIC
-
-O sistema BPM TIC tem como principal função a criação de novas funcionalidades que auxiliem a tarefa de mapeamento de processos da UFRJ.
+# ENGSOFT 36 - Big Data UI
+Interface Web para o trabalho de avaliação da disciplina BIG DATA SCIENCE.
 
 ## Tecnologias
 
