@@ -38,7 +38,10 @@ $ php artisan key:generate
 $ php artisan migrate
 ```
 
-* Configurar o serviço de disponibilização de aplicações.
+* Criar um servidor para rodar a aplicação:
+```
+$ php artisan serve
+```
 
 * Fim.
 
